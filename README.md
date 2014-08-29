@@ -1,4 +1,6 @@
 blink-linkd
 ===========
 
-a tcp server under China mobile internet
+A tcp server under China mobile internet.
+
+Just waiting for open source.
